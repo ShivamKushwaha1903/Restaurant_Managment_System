@@ -42,12 +42,12 @@ A full-featured **Restaurant POS System** built using the **MERN Stack** to stre
 
 ## 🖼️ **Project Screenshots**
 
-![Homepage screenshot](./pos-frontend/public/screenshots/homepage.png)
+![Homepage screenshot](./frontend/public/screenshots/Homepage.png)
 
-![Menu screenshot](./pos-frontend/public/screenshots/menu.png)
+![Menu screenshot](./frontend/public/screenshots/Menu.png)
 
-![Orders screenshot](./pos-frontend/public/screenshots/orders.png)
+![Orders screenshot](./frontend/public/screenshots/Orders.png)
 
-![Overall screenshot](./pos-frontend/public/screenshots/overall.png)
+![Overall screenshot](./frontend/public/screenshots/Overall.png)
 
-![Table screenshot](./pos-frontend/public/screenshots/table.png)
+![Table screenshot](./frontend/public/screenshots/Table.png)
